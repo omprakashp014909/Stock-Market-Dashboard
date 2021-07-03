@@ -1,7 +1,7 @@
 # Stock-Market-Analysis
 
-- Visualized the historical data of popular stocks like Apple, AMD, and Amazon using Candle Stick & Line Charts.
-- Extracted revenue data for Tesla & GameStop using web scraping and historical stock data from yahoo finance library.
+- Visualized the historical data of popular stocks like Apple, AMD, and Amazon using Candle Stick & Line Charts till June 2021.
+- Extracted revenue data for Tesla & GameStop using web scraping and historical stock data from yahoo finance library till May 2021.
 - Developed an interactive dashboard of Candle Stick & Line Charts with zoom sliders to compare their stock price & revenue
 
 
